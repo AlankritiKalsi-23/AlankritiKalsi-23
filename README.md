@@ -1,7 +1,5 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
-<sub>
-Data Science Enthusiast
-</sub>
+<image src = "C:\Users\Alankriti Kalsi\Downloads\Tosca Green Blue Sea Motivational Inspiration Quotes Instagram Post.png"
 
 <!--
 **AlankritiKalsi-23/AlankritiKalsi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
