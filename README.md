@@ -1,7 +1,7 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
 <p align="center">
 ![Screenshot 2022-10-05 001040](https://user-images.githubusercontent.com/105043695/193901966-78214a62-2272-4edb-a6f8-087f49bd36ac.png)
-</p>
+
 
 <!--
 **AlankritiKalsi-23/AlankritiKalsi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
