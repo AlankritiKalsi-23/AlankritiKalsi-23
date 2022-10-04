@@ -1,6 +1,6 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
 <p align="center">
-img src = "https://user-images.githubusercontent.com/105043695/193901186-6906b972-a29c-479f-88c4-aa614ee952eb.png"
+![Screenshot 2022-10-05 001040](https://user-images.githubusercontent.com/105043695/193901966-78214a62-2272-4edb-a6f8-087f49bd36ac.png)
 </p>
 
 <!--
