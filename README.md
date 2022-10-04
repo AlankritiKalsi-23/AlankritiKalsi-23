@@ -1,7 +1,5 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
-<p align="center">
-<img src = "https://photos.app.goo.gl/yNL8hRfw4sg2sm5GA">
-</p>
+                   ![Screenshot 2022-10-05 001040](https://user-images.githubusercontent.com/105043695/193904318-eb7938c3-b43b-433a-8a9a-f70ef72df05e.png)
 
 
 <!--
