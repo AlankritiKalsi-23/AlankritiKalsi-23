@@ -1,5 +1,5 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
-<image src = "C:\Users\Alankriti Kalsi\Downloads\Tosca Green Blue Sea Motivational Inspiration Quotes Instagram Post.png">
+![Tosca Green Blue Sea Motivational Inspiration Quotes Instagram Post](https://user-images.githubusercontent.com/105043695/193898474-d3323f11-2bb1-4ab2-ae2c-5180e4526179.png)
 
 <!--
 **AlankritiKalsi-23/AlankritiKalsi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
