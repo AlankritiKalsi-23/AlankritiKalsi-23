@@ -1,6 +1,6 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
 <p align="center">
-<img src = "https://photos.google.com/search/_tra_/photo/AF1QipOIgpM9Q68oT7LQ4w9I6o7EhKLxFjIrPmCkuMw">
+<img src = "https://photos.app.goo.gl/yNL8hRfw4sg2sm5GA">
 </p>
 
 
