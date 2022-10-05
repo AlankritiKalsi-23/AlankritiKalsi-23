@@ -5,7 +5,7 @@ GitHub Analytics 📈</br></br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlankritiKalsi-23&show_icons=true&theme=bear)
 
 GitHub Streak</br></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlankritiKalsi-23&theme=material)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlankritiKalsi-23&theme=horizon)](https://git.io/streak-stats)
 
 <!--
 **AlankritiKalsi-23/AlankritiKalsi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
