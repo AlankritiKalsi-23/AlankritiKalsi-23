@@ -1,7 +1,11 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
 ![Image](https://user-images.githubusercontent.com/105043695/193905970-6d63ba31-73cc-4ec9-9abb-552b9d6333dd.png)
 
-![Alankriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlankritiKalsi-23&show_icons=true&theme=bear)
+GitHub Analytics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlankritiKalsi-23&show_icons=true&theme=bear)
+
+GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlankritiKalsi-23&theme=bear)](https://git.io/streak-stats)
 
 <!--
 **AlankritiKalsi-23/AlankritiKalsi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
