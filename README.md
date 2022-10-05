@@ -7,9 +7,7 @@ GitHub Analytics 📈</br></br>
 GitHub Streak</br></br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlankritiKalsi-23&theme=horizon)](https://git.io/streak-stats)
 
-<p allign = "centre">
-![Visitor Count](https://profile-counter.glitch.me/AlankritiKalsi-23/count.svg)
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=00c4cc)
 
 <!--
 **AlankritiKalsi-23/AlankritiKalsi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
