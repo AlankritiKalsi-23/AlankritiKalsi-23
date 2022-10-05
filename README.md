@@ -1,7 +1,7 @@
 # Hi, I'm Alankriti 👋🏻 👩🏻‍💻
 ![Image](https://user-images.githubusercontent.com/105043695/193905970-6d63ba31-73cc-4ec9-9abb-552b9d6333dd.png)
 
-GitHub Analytics</br>
+GitHub Analytics 📈</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlankritiKalsi-23&show_icons=true&theme=bear)
 
 GitHub Streaks</br>
