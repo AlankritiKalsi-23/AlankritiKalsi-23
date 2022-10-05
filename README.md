@@ -7,7 +7,7 @@ GitHub Analytics 📈</br></br>
 GitHub Streak</br></br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlankritiKalsi-23&theme=horizon)](https://git.io/streak-stats)
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=C64D58)][1]
+![](https://AlankritiKalsi-23.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=C64D58)
 
 
 <!--
