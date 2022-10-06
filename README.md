@@ -2,8 +2,9 @@
 ![Image](https://user-images.githubusercontent.com/105043695/193905970-6d63ba31-73cc-4ec9-9abb-552b9d6333dd.png)
 
 Languages and Tools:</br>
-![C++](https://user-images.githubusercontent.com/105043695/194397402-e5baf830-b2d9-45db-8038-92125be728e5.svg)
-
+<img src="![C++](https://user-images.githubusercontent.com/105043695/194397402-e5baf830-b2d9-45db-8038-92125be728e5.svg" 
+     width="400" 
+     height="500" />
 
 GitHub Analytics 📈</br></br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlankritiKalsi-23&show_icons=true&theme=bear)
