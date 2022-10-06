@@ -3,8 +3,8 @@
 
 Languages and Tools:</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-     width="100" 
-     height="100" />
+     width="50" 
+     height="50" />
 
 GitHub Analytics 📈</br></br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlankritiKalsi-23&show_icons=true&theme=bear)
