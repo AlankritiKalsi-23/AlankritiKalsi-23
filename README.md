@@ -21,7 +21,7 @@ GitHub Streak</br></br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlankritiKalsi-23&theme=horizon)](https://git.io/streak-stats)
 
 GitHub Trophies</br></br>
-https://github-profile-trophy.vercel.app/?username=AlankritiKalsi-23&theme=chalk
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlankritiKalsi-23&theme=chalk)](https://github.com/AlankritiKalsi-23/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=C64D58)
 
